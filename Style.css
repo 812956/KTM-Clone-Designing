@@ -322,13 +322,13 @@ color: #f60;
     
 }
 
-.adv_img1{
+/* .adv_img1{
     width: 317.5px;
     height: 238px;
     background-image: url(images/1.webp);
     background-size: cover;
-}
-.adv_img2{
+} */
+/* .adv_img2{
     width: 317.5px;
     height: 238px;
     background-image: url(images/2.webp);
@@ -345,7 +345,7 @@ color: #f60;
     height: 238px;
     background-image: url(images/4.webp);
     background-size: cover;
-}
+} */
 
 .advertising_message{
     width: 635px;
