@@ -309,18 +309,15 @@ color: #f60;
 
 .advertising_images{
     width: 635px;
-    height: 476px;
-    
-    
-    
+    height: 476px; 
 }
 
-.ad_img{
+ .ad_img{
     width: 317.5px;
     height: 238px;
     float: left;
     
-}
+} 
 
 /* .adv_img1{
     width: 317.5px;
